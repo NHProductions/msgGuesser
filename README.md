@@ -11,6 +11,9 @@ The basic idea is to see if you can guess who sent a discord message. When ?star
 | ?rules | Lists current rules | | | ?rules |
 | ?cmds | Lists all commands | | | ?cmds |
 | ?cmds | Lists specifics of a command | str | | ?cmds rules |
-
+| ?lb | Lists the leaderboard in a server | | | ?lb |
+| ?rules | Changes rules | 1-6 | Server Owner | ?rules guessingTime=20 |
+| ?close | Closes the bot | | Bot Admin | ?close |
+| ?saveAll | Saves data | | Bot Admin | ?saveAll |
 # Hosting Guide:
 
