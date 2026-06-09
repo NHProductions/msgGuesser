@@ -310,11 +310,11 @@ async def guess(ctx : Context, g1 : str):
 async def guessFormats(ctx):
     await ctx.send("""
 Valid formats for guessing:
-- \\\\@<id> - Escape Char Pinging - Developer mode must be on, and you have to copy their User ID by right clicking their name and clicking "Copy User ID". Use if you don't actually want to ping a person. e.x \\@<438360707671523328>
-- @ - Pinging e.x "@namehere_numbershere"
+- \\\\@<id> - Escape Char Pinging - Developer mode must be on, and you have to copy their User ID by right clicking their name and clicking "Copy User ID". Use if you don't actually want to ping a person. e.x \\@<123123123123123123>
+- @ - Pinging e.x "@username"
 - !Self - Guess yourself\n
 Sometimes valid:
-- "Username" - Self explanatory; has to be in quotes. e.x "namehere_numbershere"; server configures if this is valid for guesses.\n
+- "Username" - Self explanatory; has to be in quotes. e.x "username"; server configures if this is valid for guesses.\n
 NOT valid formats for guessing:
 - Nicknames
 - Display names
