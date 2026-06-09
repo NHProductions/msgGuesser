@@ -30,3 +30,4 @@ The basic idea is to see if you can guess who sent a discord message. When ?star
 12. Set cmdPrefix (Line 6) to whatever you want the prefix to be. Don't choose anything that is commonly said, or conflicts with other bots.
 13. Set the default settings (Lines 8-13) for new servers to whatever you want them to be; If you only have this in one server, you can manually change these yourself using ?rules.
 14. Change cosmetic settings (Lines 15-21) to whatever you want.
+15. Open command prompt, move over to the directory you have the bot in. Use pip install -r requirements.txt (Skip this step if you have discord.py installed already)
