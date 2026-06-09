@@ -5,7 +5,7 @@ The basic idea is to see if you can guess who sent a discord message. When ?star
 ## Commands:
 | Name  | Actions | Parameters | Permissions | Usage Example
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ?start | Starts a round | | | | ?start |
+| ?start | Starts a round | | | ?start |
 | ?guess | Makes a guess | str | | | ?guess username |
 | ?guessFormats | Lists valid guess formats | | | | ?guessFormats | 
 | ?rules | Lists current rules | | | | ?rules |
